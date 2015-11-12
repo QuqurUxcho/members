@@ -14,92 +14,92 @@ msgstr ""
 
 #: _assets/class-cap-new.php:64 _assets/class-cap-new.php:158
 msgid "Add New Capability"
-msgstr ""
+msgstr "Añadir permiso nuevo"
 
 #: _assets/class-cap-new.php:102
 msgid "Please input a valid capability."
-msgstr ""
+msgstr "Por favor introduce un permiso valido."
 
 #: _assets/class-cap-new.php:106
 msgid "The %s capability already exists."
-msgstr ""
+msgstr "El permiso %s ya existe."
 
 #: _assets/class-cap-new.php:110
 msgid "Please select at least one role."
-msgstr ""
+msgstr "Por favor selecciona al menos un rol."
 
 #: _assets/class-cap-new.php:123
 msgid "The %s capability has been created."
-msgstr ""
+msgstr "El permiso %s ha sido creado."
 
 #: _assets/class-cap-new.php:172 admin/tmpl/cap-section.php:19
 #: admin/tmpl/cap-section.php:27
 msgid "Capability"
-msgstr ""
+msgstr "Permiso"
 
 #: _assets/class-cap-new.php:178
 msgid "The capability should be unique and contain only alphanumeric characters and underscores."
-msgstr ""
+msgstr "La capacidad debe ser única y solo puede contener caracteres alfanuméricos y barras bajas."
 
 #: _assets/class-cap-new.php:185 admin/class-manage-roles.php:84
 #: admin/class-manage-roles.php:90 admin/class-roles.php:168
 #: admin/class-user-edit.php:87 admin/functions-admin.php:148
 msgid "Roles"
-msgstr ""
+msgstr "Roles"
 
 #: _assets/class-cap-new.php:189
 msgid "Select at least one role. Because of the way capabilities work in WordPress, they can only exist if assigned to a role."
-msgstr ""
+msgstr "Selecciona al menos un rol. Porque "
 
 #: _assets/class-cap-new.php:209
 msgid "Add Capability"
-msgstr ""
+msgstr "Añadir permiso"
 
 #: _assets/class-capability-list-table.php:264
 #: _assets/class-capability-list-table.php:387
 #: admin/class-role-list-table.php:322 admin/class-role-list-table.php:447
 msgid "Delete"
-msgstr ""
+msgstr "Eliminar"
 
 #: _assets/class-capability-list-table.php:319
 #: admin/class-role-list-table.php:392
 msgid "All %s"
 msgid_plural "All %s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Todo %s"
+msgstr[1] "Todos los %s"
 
 #: _assets/class-capability-list-table.php:320
 #: admin/functions-role-groups.php:112
 msgid "Mine %s"
 msgid_plural "Mine %s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "Mí %s"
+msgstr[1] "Mís %s"
 
 #: _assets/class-capability-list-table.php:321
 #: admin/functions-role-groups.php:158
 msgid "WordPress %s"
 msgid_plural "WordPress %s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s Wordpress"
+msgstr[1] "%ses Wordpress"
 
 #: _assets/class-capability-list-table.php:322
 msgid "Members %s"
 msgid_plural "Members %s"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s de Miembros"
+msgstr[1] "%ses de Miembros"
 
 #: _assets/class-capability-list-table.php:349
 msgid "View all roles"
-msgstr ""
+msgstr "Ver todos los roles"
 
 #: _assets/class-capability-list-table.php:359
 msgid "Filter"
-msgstr ""
+msgstr "Filtro"
 
 #: _assets/page-capabilities.php:45 _assets/page-capabilities.php:93
 #: admin/class-settings.php:133
 msgid "Capabilities"
-msgstr ""
+msgstr "Permisos"
 
 #: _assets/page-capabilities.php:69
 msgid "%s capability deleted. Not really. This is just a message to output until the functionality is working."
